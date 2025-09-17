@@ -15,29 +15,29 @@ This repository is open for everyone – whether you are just starting your codi
 
 📌 How to Contribute?
 
-Follow my GitHub account ✅
+- Follow my GitHub account ✅
 
-Fork this repo & give it a Star ⭐
+- Fork this repo & give it a Star ⭐
 
-Add your unique program or idea (avoid duplicates) 📝
+- Add your unique program or idea (avoid duplicates) 📝
 
-Create a Pull Request (PR) 🔥
+- Create a Pull Request (PR) 🔥
 
-I will review and merge valid PRs 🎯
+- I will review and merge valid PRs 🎯
 
 ⚠️ Please make sure your contribution is unique and not copied from others. Every PR should add real value.
 
 🌟 Why Join Here?
 
-🎉 Be part of Hacktoberfest 2025
+- 🎉 Be part of Hacktoberfest 2025
 
-🚀 Contribute no matter if you’re a beginner or experienced
+- 🚀 Contribute no matter if you’re a beginner or experienced
 
-🌍 Collaborate with a global open-source community
+- 🌍 Collaborate with a global open-source community
+- 
+- 🏆 Your PRs will be accepted if they are unique
 
-🏆 Your PRs will be accepted if they are unique
-
-🥇 Learn from someone who has successfully completed Hacktoberfest every year
+- 🥇 Learn from someone who has successfully completed Hacktoberfest every year
 
 👉 Let’s celebrate Hacktoberfest and build something amazing together! 🚀
 ⭐ Don’t forget to star this repo after forking!z
