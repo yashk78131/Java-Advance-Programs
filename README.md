@@ -32,9 +32,9 @@ This repository is open for everyone – whether you are just starting your codi
 - 🎉 Be part of Hacktoberfest 2025
 
 - 🚀 Contribute no matter if you’re a beginner or experienced
-
+  
 - 🌍 Collaborate with a global open-source community
-- 
+  
 - 🏆 Your PRs will be accepted if they are unique
 
 - 🥇 Learn from someone who has successfully completed Hacktoberfest every year
