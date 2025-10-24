@@ -3,9 +3,9 @@ import java.util.*;
 class DetectCycle
 {
    static boolean checkForCycle(ArrayList<ArrayList<Integer>> adj, int s,
-            boolean vis[], int parent[])
+        boolean vis[], int parent[]) 
     {
-       Queue<Node> q =  new LinkedList<>(); //BFS
+       Queue<Node> q =  new LinkedList<>();   //BFS
        q.add(new Node(s, -1));
        vis[s] =true;
        
