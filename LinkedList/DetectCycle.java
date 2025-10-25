@@ -52,8 +52,8 @@ public class DetectCycle {
 
         // Check if the linked list has a cycle
         if (hasCycle(head))
-            System.out.println("✅ Cycle detected in the linked list!");
+            System.out.println("Cycle detected in the linked list!");
         else
-            System.out.println("❌ No cycle detected in the linked list.");
+            System.out.println("No cycle detected in the linked list.");
     }
 }
